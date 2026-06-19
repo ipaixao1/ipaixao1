@@ -1,119 +1,268 @@
-<!--- Banner -->
-<p align="center">
-  <img src="Butterfly Wings Flapping GIF - Butterfly Wings Flapping Red - Discover & Share GIFs.gif" width="1000px" height="500px" alt="Shy Cat" />
-</p>
-
-</br> 
-<img src="download.jpg" width=320 align="left">
-
-<div align="justify">
-
-<!--- About me -->
-### Sobre mim
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mona+sans&weight=600&size=18&duration=3000&pause=1000&color=800020&background=F29FFF00&width=500&height=30&lines=Ol%C3%A1+visitante!+Me+chamo+Isabel+%F0%9F%92%9C;Sou+desenvolvedora+Front-end+em+formação;Me+arrisco+no+design+%F0%9F%8E%A8;Adoro+borboletas+e+jogos+de+rpg!+%E2%AD%90)](https://git.io/typing-svg)
-
-Sou `Aprendiz de Service Desk` e faço graduação em `Análise e Desenvolvimento de Sistemas`. 
-Apaixonada por tecnologia, design e criação de conceito! Sou formada na ETEC em **Informática para Internet**.
-Estar atuando junto ao cliente como suporte me proporciona uma visão das necessidades do usuário e regras de negócio, me ajudando à criar aplicações que realmente fazem sentido!
-Tenho experiência em **UX/UI** com `Figma`, conhecimentos em `HTML`, `CSS`, `JavaScript`, `PHP`, `MYSQL`, `Java` e atualmente estou aprendendo `React` e `Microsoft Intune`! 
-Sou muito curiosa e estou sempre aprendendo coisas novas para evoluir cada vez mais e usar minhas habilidades para atender às necessidades dos usuários!
-
+<div align="center">
+  <img src="./header.svg" width="100%" alt="Isabel Paixao — Desenvolvedora Front-End"/>
 </div>
-</br>
 
---- 
-
-<!--- My stacks -->
 <div align="center">
 
-### Tecnologias que uso
+```
+╔══════════════════════════════════════════════════════╗
+║  Cada interface que construo é um fio com propósito  ║
+╚══════════════════════════════════════════════════════╝
+```
 
-  <img src="https://img.shields.io/badge/HTML5-800020?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-800020?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-800020?style=for-the-badge&logo=javascript&logoColor=white" />
-<img src="https://img.shields.io/badge/React-800020?style=for-the-badge&logo=react&logoColor=white" />
-<img src="https://img.shields.io/badge/PHP-800020?style=for-the-badge&logo=php&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-800020?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-800020?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/JSON-800020?style=for-the-badge&logo=json&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-800020?style=for-the-badge&logo=python&logoColor=white" />
-
-
-  
-
-#### Tools
-  <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Trello-000000?style=for-the-badge&logo=trello&logoColor=white" />
-  <img src="https://img.shields.io/badge/VSCode-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-<img src="https://img.shields.io/badge/phpMyAdmin-000000?style=for-the-badge&logo=phpmyadmin&logoColor=white" />
-<img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />
-<img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" />
-  
 </div>
 
---- 
-
-<img src="borboleta.jpg" width=300 align="right">
-
-<div align="justify">
-    
-### Um pouco mais sobre mim! 
-Eu gosto de criar conceitos!
-Gosto de ajudar outras pessoas dentro da área de tecnologia.
-Acredito que a maior forma de aprender é ensinando e trocando conhecimentos.</br>
-Sou muito fã de BTS!
-
-**Fale comigo:**
-
-  <a href="www.linkedin.com/in/isabel-virgínia-santos-da-paixão-2abb45231">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:sisabelvirginia@gmail.com">
-    <img src="https://img.shields.io/badge/E--mail-000000?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  
-</div>
-
-</br></br></br></br>
-
----
-
-<!-- Pacman -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/laracmiranda/laracmiranda/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/laracmiranda/laracmiranda/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/laracmiranda/laracmiranda/output/pacman-contribution-graph.svg">
-</picture>
+<br/>
 
 ---
 
 <div align="center">
 
-<p align="center">
-  <img src="hearts.jpg" width="200px" height="100px" alt="Shy Cat" />
-</p>
-
-<!-- Statistics -->
-### Estatísticas
+```
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓◈ ÁREA 01 — ORIGEM ◈▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+```
 
 </div>
 
-| ![Isabel Stats Profile](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ipaixao1&mode=daily&theme=github_dark&title_color=800020&icon_color=5A0F1C) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ipaixao1&hide=Html&theme=github_dark&title_color=800020) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ipaixao1&theme=github_dark&title_color=800020) |
-| :-: | :-: | :-: |
+<br/>
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ipaixao1&theme=github_dark&title_color=800020) | ![](https://streak-stats.demolab.com?user=ipaixao1&locale=en&mode=daily&theme=dark&ring=800020&fire=5A0F1C&currStreakLabel=800020&hide_border=false&border_radius=5&order=3) |
-| :-: | :-: |
+<img align="right" src="https://raw.githubusercontent.com/ipaixao1/ipaixao1/main/hornet-pixel.svg" width="140" alt="Hornet pixel art"/>
 
+## <span style="color:red">Sobre Mim</span>
 
---- 
+Olá, sou **Isabel Paixão** — desenvolvedora front-end em formação, no **3° semestre de Análise e Desenvolvimento de Sistemas**.
 
-<p align="center">
-  <img src="pocah.gif" width="250px" alt="GIF gandalf" />
-</p>
+Meu foco está em criar interfaces que vão além do funcional: interfaces que têm identidade, que se sentem vivas, que conectam quem usa ao produto de forma natural. Cada componente que escrevo, cada detalhe de layout que ajusto — é intencional.
 
-</br> 
+Trabalho principalmente com **Angular 17**, TypeScript e Firebase, e tenho uma relação muito próxima com o design: costumo comparar cada implementação com a referência do Figma até estar certo.
 
-<p align="center">
-  Obrigada por visitar meu perfil! ❤️
-</p>
+Quando não estou codando, estou explorando metroidvanias — **Hollow Knight: Silksong** é minha maior inspiração estética, e essa identidade visual que você vê aqui é prova disso.
+
+<br clear="right"/>
+
+---
+
+<div align="center">
+
+```
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓◈ ÁREA 02 — ARSENAL ◈▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+```
+
+</div>
+
+<br/>
+
+## <span style="color:#C8102E">Habilidades</span>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**Front-End**
+
+![Angular](https://img.shields.io/badge/Angular_17-C8102E?style=flat-square&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-0D0614?style=flat-square&logo=typescript&logoColor=3178C6)
+![SCSS](https://img.shields.io/badge/SCSS-0D0614?style=flat-square&logo=sass&logoColor=CC6699)
+![HTML5](https://img.shields.io/badge/HTML5-0D0614?style=flat-square&logo=html5&logoColor=E34F26)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D0614?style=flat-square&logo=javascript&logoColor=F7DF1E)
+
+Standalone Components · Signals · Reactive Forms
+RxJS · Route Guards · Lazy Loading · Canvas 2D API
+
+</td>
+<td width="50%" valign="top">
+
+**Back-End & Banco**
+
+![Firebase](https://img.shields.io/badge/Firebase-0D0614?style=flat-square&logo=firebase&logoColor=FFCA28)
+![Firestore](https://img.shields.io/badge/Firestore-0D0614?style=flat-square&logo=firebase&logoColor=FFA000)
+![MySQL](https://img.shields.io/badge/MySQL-0D0614?style=flat-square&logo=mysql&logoColor=4479A1)
+![PHP](https://img.shields.io/badge/PHP-0D0614?style=flat-square&logo=php&logoColor=777BB4)
+![Node.js](https://img.shields.io/badge/Node.js-0D0614?style=flat-square&logo=node.js&logoColor=339933)
+
+**Ferramentas**
+
+![Vercel](https://img.shields.io/badge/Vercel-C8102E?style=flat-square&logo=vercel&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-0D0614?style=flat-square&logo=figma&logoColor=F24E1E)
+![Jira](https://img.shields.io/badge/Jira-0D0614?style=flat-square&logo=jira&logoColor=0052CC)
+![Git](https://img.shields.io/badge/Git-0D0614?style=flat-square&logo=git&logoColor=F05032)
+![VS Code](https://img.shields.io/badge/VS_Code-0D0614?style=flat-square&logo=visual-studio-code&logoColor=007ACC)
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+```
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓◈ ÁREA 03 — MISSÕES ◈▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+```
+
+</div>
+
+<br/>
+
+## <span style="color:#C8102E">Projetos</span>
+
+<br/>
+
+<img align="left" src="https://raw.githubusercontent.com/ipaixao1/ipaixao1/main/hornet-needle.svg" width="110" alt="Hornet with needle"/>
+
+### BAIANAr — Sistema de Restaurante
+`Angular 17 · Firebase · Vercel` &nbsp; **`DESTAQUE`**
+
+Sistema completo de pedidos e gestão para restaurantes com **quatro interfaces independentes** comunicando em tempo real. Foi o projeto mais desafiador que já construí — do cardápio mobile para clientes ao painel da cozinha exibindo pedidos ao vivo.
+
+<br clear="left"/>
+
+**O que está por dentro:**
+
+| Interface | O que faz |
+|:---|:---|
+| Storefront Mobile | Cardápio, carrinho, checkout com múltiplos meios de pagamento e rastreio do pedido |
+| Dashboard Admin | CRUD completo de produtos e categorias, gestão de pedidos e upload de imagens |
+| KDS — Kitchen Display | Painel da cozinha com cards de pedido atualizando em tempo real via `onSnapshot` |
+| App Motoboy | Área exclusiva para entregadores com autenticação própria e fluxo de entrega |
+
+Toda a comunicação entre interfaces acontece via **Firestore em tempo real** — uma ação no storefront reflete instantaneamente na cozinha e no painel admin. Permissões por cargo com Route Guards garantem que cada usuário só acessa o que é seu.
+
+[![Demo ao vivo](https://img.shields.io/badge/▶_DEMO_AO_VIVO-C8102E?style=for-the-badge)](https://baianar.vercel.app)
+[![Código](https://img.shields.io/badge/◈_CODIGO-0D0614?style=for-the-badge&logo=github&logoColor=D8CAB4)](https://github.com/ipaixao1/Comanda-Digital---BAIANAr)
+
+---
+
+<br/>
+
+### Brisa Vinícola — E-commerce de Vinhos
+`HTML · CSS · JavaScript · PHP · MySQL` &nbsp; **`TCC TÉCNICO`**
+
+Meu trabalho de conclusão do curso técnico de **Informática para a Internet**. Um e-commerce sofisticado de vinhos construído do zero — da identidade visual ao banco de dados. Catálogo de produtos, carrinho de compras, autenticação de usuários e painel administrativo completo.
+
+Foi o projeto que me mostrou, pela primeira vez, o ciclo completo de um produto web.
+
+[![Código](https://img.shields.io/badge/◈_CODIGO-0D0614?style=for-the-badge&logo=github&logoColor=D8CAB4)](https://github.com/ipaixao1/TCC---BrisaVinicola)
+
+---
+
+<br/>
+
+<img align="right" src="https://raw.githubusercontent.com/ipaixao1/ipaixao1/main/hornet-sit.svg" width="120" alt="Hornet sitting"/>
+
+### Impressora Elgin — Controle de Hardware
+`Java · ESC/POS · OOP` &nbsp; **`2° SEMESTRE`**
+
+Projeto desenvolvido no 2° semestre da faculdade. Uma aplicação Java com menu interativo para controlar uma impressora térmica Elgin diretamente — QR Code, código de barras, impressão de nota fiscal e corte de papel, tudo via protocolo ESC/POS.
+
+Meu primeiro contato real com comunicação entre software e hardware.
+
+<br clear="right"/>
+
+[![Código](https://img.shields.io/badge/◈_CODIGO-0D0614?style=for-the-badge&logo=github&logoColor=D8CAB4)](https://github.com/anna-clara6/impressora-elgin-final)
+
+---
+
+<br/>
+
+### Portfolio Silksong — Este Portfolio
+`Angular 17 · TypeScript · SCSS · Canvas 2D`
+
+O portfolio que você provavelmente acabou de visitar antes de chegar aqui. Desenvolvido com tema em **Hollow Knight: Silksong** — cursor customizado que deixa faíscas, 18 fios de seda no canvas atraídos pelo movimento do mouse, pixel art animada da Hornet, HUD estilo videogame e cada seção como uma área de um mapa de mundo.
+
+Uma interface que se apresenta dentro de si mesma.
+
+[![Código](https://img.shields.io/badge/◈_CODIGO-0D0614?style=for-the-badge&logo=github&logoColor=D8CAB4)](https://github.com/ipaixao1/portifolio-isabel)
+
+---
+
+<div align="center">
+
+```
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓◈ ÁREA 04 — STATS ◈▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+```
+
+</div>
+
+<br/>
+
+## <span style="color:#C8102E">GitHub Stats</span>
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ipaixao1&show_icons=true&bg_color=06030A&title_color=C8102E&text_color=D8CAB4&icon_color=7B6FC8&border_color=C8102E&border_radius=0&count_private=true&include_all_commits=true&rank_icon=github"/>
+&nbsp;
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ipaixao1&layout=compact&bg_color=06030A&title_color=C8102E&text_color=D8CAB4&border_color=C8102E&border_radius=0&langs_count=6&hide=python,java,php,jupyter+notebook"/>
+
+</div>
+
+<div align="center">
+
+<img width="68%" src="https://github-readme-streak-stats.herokuapp.com/?user=ipaixao1&background=06030A&ring=C8102E&fire=C8102E&currStreakLabel=D8CAB4&sideLabels=8A7D6E&dates=8A7D6E&border=C8102E&stroke=140A1E&sideNums=D8CAB4&currStreakNum=C8102E"/>
+
+</div>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ipaixao1&bg_color=06030A&color=D8CAB4&line=C8102E&point=7B6FC8&area=true&area_color=C8102E&border_color=C8102E&hide_border=false" width="96%"/>
+</div>
+
+<br/>
+
+<div align="center">
+
+```
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓◈ ÁREA 05 — COMMIT GAME ◈▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+```
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/ipaixao1/ipaixao1/main/commit-game.svg" width="100%" alt="Commit History 2025"/>
+
+> Hornet correndo pelos seus commits de 2025 — os picos em MAI e SET foram as sprints do BAIANAr e do Portfolio.
+> Os valores acima podem ser atualizados no arquivo `commit-game.svg` conforme o ano avança.
+
+</div>
+
+---
+
+<div align="center">
+
+```
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓◈ ÁREA 06 — NEXO ◈▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+```
+
+</div>
+
+<br/>
+
+## <span style="color:#C8102E">Contato</span>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-C8102E?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D0614)](https://www.linkedin.com/in/isabel-paix%C3%A3o%F0%9F%A6%8B-2abb45231/)
+[![Gmail](https://img.shields.io/badge/Gmail-C8102E?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D0614)](mailto:sisabelvirginia@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-C8102E?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0D0614)](https://wa.me/557398158341)
+[![Portfolio](https://img.shields.io/badge/Portfolio-C8102E?style=for-the-badge&labelColor=0D0614)](https://github.com/ipaixao1/portifolio-isabel)
+
+<br/>
+
+![Visitor Count](https://komarev.com/ghpvc/?username=ipaixao1&color=C8102E&style=flat-square&label=visitas+ao+perfil)
+
+<br/>
+
+```
+╔═══════════════════════════════════════════════════════════╗
+║                                                           ║
+║   "Não crio apenas páginas —                              ║
+║    teço sistemas onde cada fio tem propósito."            ║
+║                                                           ║
+╚═══════════════════════════════════════════════════════════╝
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=C8102E&height=85&section=footer" width="100%"/>
+
+</div>
