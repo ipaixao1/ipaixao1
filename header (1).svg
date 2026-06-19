@@ -1,0 +1,214 @@
+<svg fill="none" viewBox="0 0 900 220" width="900" height="220" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <style>
+    .bg-pulse { animation: bgP 8s ease-in-out infinite; }
+    @keyframes bgP { 0%,100%{opacity:1} 50%{opacity:0.88} }
+
+    .stal { animation: stalD 1.4s cubic-bezier(0.22,1,0.36,1) both; transform-box:fill-box; transform-origin:top center; }
+    .s0{animation-delay:0.0s} .s1{animation-delay:0.1s} .s2{animation-delay:0.2s}
+    .s3{animation-delay:0.05s} .s4{animation-delay:0.15s} .s5{animation-delay:0.25s}
+    .s6{animation-delay:0.08s} .s7{animation-delay:0.18s} .s8{animation-delay:0.28s}
+    @keyframes stalD { from{transform:scaleY(0);opacity:0} to{transform:scaleY(1);opacity:1} }
+
+    .drip { animation: dripA 3.5s ease-in infinite; transform-box:fill-box; transform-origin:center top; }
+    .d0{animation-delay:0.5s} .d1{animation-delay:1.8s} .d2{animation-delay:3.1s} .d3{animation-delay:2.2s}
+    @keyframes dripA { 0%{transform:translateY(0);opacity:0} 8%{opacity:1} 85%{opacity:0.5} 100%{transform:translateY(55px);opacity:0} }
+
+    .th { animation: thF ease-in-out infinite; }
+    .t0{animation-delay:0s;animation-duration:5.5s} .t1{animation-delay:1s;animation-duration:4.8s}
+    .t2{animation-delay:2s;animation-duration:6.2s} .t3{animation-delay:0.5s;animation-duration:5s}
+    .t4{animation-delay:1.5s;animation-duration:4.2s}
+    @keyframes thF { 0%,100%{transform:translateY(0);opacity:0.25} 50%{transform:translateY(-7px);opacity:0.55} }
+
+    .sp { animation: spA linear infinite; }
+    .p0{animation-delay:0s;animation-duration:5.5s} .p1{animation-delay:1.3s;animation-duration:7s}
+    .p2{animation-delay:2.7s;animation-duration:5s} .p3{animation-delay:4s;animation-duration:6.5s}
+    .p4{animation-delay:0.8s;animation-duration:4.8s} .p5{animation-delay:3.2s;animation-duration:5.8s}
+    @keyframes spA { 0%{transform:translateY(0) scale(0.3);opacity:0} 12%{opacity:0.8} 88%{opacity:0.15} 100%{transform:translateY(-110px) scale(1.3);opacity:0} }
+
+    .gem { animation: gemP 2.8s ease-in-out infinite; transform-box:fill-box; transform-origin:center center; }
+    .gl{animation-delay:0s} .gr{animation-delay:1.4s}
+    @keyframes gemP { 0%,100%{transform:scale(1) rotate(0deg);filter:drop-shadow(0 0 5px #C8102E)} 50%{transform:scale(1.25) rotate(3deg);filter:drop-shadow(0 0 18px #C8102E)} }
+
+    .ndl { animation: ndlF 4.5s ease-in-out infinite; transform-box:fill-box; transform-origin:80px 120px; }
+    @keyframes ndlF { 0%,100%{transform:translateY(0)} 50%{transform:translateY(-5px)} }
+
+    .cr-tl{animation:cTL 0.8s 0.2s cubic-bezier(0.22,1,0.36,1) both}
+    .cr-tr{animation:cTR 0.8s 0.2s cubic-bezier(0.22,1,0.36,1) both}
+    .cr-bl{animation:cBL 0.8s 0.2s cubic-bezier(0.22,1,0.36,1) both}
+    .cr-br{animation:cBR 0.8s 0.2s cubic-bezier(0.22,1,0.36,1) both}
+    @keyframes cTL{from{transform:translate(-10px,-10px);opacity:0}to{transform:translate(0,0);opacity:1}}
+    @keyframes cTR{from{transform:translate(10px,-10px);opacity:0}to{transform:translate(0,0);opacity:1}}
+    @keyframes cBL{from{transform:translate(-10px,10px);opacity:0}to{transform:translate(0,0);opacity:1}}
+    @keyframes cBR{from{transform:translate(10px,10px);opacity:0}to{transform:translate(0,0);opacity:1}}
+
+    .bgl { animation: bglP 3.5s ease-in-out infinite; }
+    @keyframes bglP { 0%,100%{opacity:0.3} 50%{opacity:0.65} }
+
+    .ttag { animation: tRev 0.9s 0.5s both; font-family:'Courier New',monospace; font-size:13px; fill:#C8102E; letter-spacing:5px; }
+    .tmain { animation: tRev 0.9s 0.75s both; font-family:Georgia,serif; font-size:52px; font-weight:700; fill:#D8CAB4; letter-spacing:4px;
+              filter:drop-shadow(0 0 22px rgba(200,16,46,0.65)) drop-shadow(0 0 8px rgba(200,16,46,0.35)); }
+    .tsub { animation: tRev 0.9s 1s both; font-family:'Courier New',monospace; font-size:16px; fill:#8A7D6E; letter-spacing:7px; }
+    @keyframes tRev { from{opacity:0;transform:translateY(16px)} to{opacity:1;transform:translateY(0)} }
+
+    .online-dot { }
+    .online-dot circle { animation: olP 1.4s ease-in-out infinite; }
+    @keyframes olP { 0%,100%{opacity:0.9;r:4} 50%{opacity:0.2;r:3} }
+
+    .lineh { animation: lineH 1s 0.4s both; transform-origin:left center; }
+    @keyframes lineH { from{transform:scaleX(0)} to{transform:scaleX(1)} }
+
+    .hornet-mask { animation: hmF 4s ease-in-out infinite; transform-box:fill-box; transform-origin:center bottom; }
+    @keyframes hmF { 0%,100%{transform:translateY(0)} 50%{transform:translateY(-6px)} }
+
+    .cape-glow { animation: cgP 4s ease-in-out infinite; }
+    @keyframes cgP { 0%,100%{opacity:0.4} 50%{opacity:0.75} }
+  </style>
+
+  <linearGradient id="bgG" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0%" stop-color="#05020A"/>
+    <stop offset="100%" stop-color="#100620"/>
+  </linearGradient>
+  <linearGradient id="rG" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0%" stop-color="transparent"/>
+    <stop offset="50%" stop-color="#C8102E"/>
+    <stop offset="100%" stop-color="transparent"/>
+  </linearGradient>
+  <radialGradient id="hGlow" cx="50%" cy="55%" r="40%">
+    <stop offset="0%" stop-color="#7B0A1F" stop-opacity="0.5"/>
+    <stop offset="100%" stop-color="#05020A" stop-opacity="0"/>
+  </radialGradient>
+  <radialGradient id="lavG" cx="15%" cy="25%" r="30%">
+    <stop offset="0%" stop-color="#7B6FC8" stop-opacity="0.1"/>
+    <stop offset="100%" stop-color="transparent" stop-opacity="0"/>
+  </radialGradient>
+  <radialGradient id="rGlow2" cx="85%" cy="75%" r="20%">
+    <stop offset="0%" stop-color="#C8102E" stop-opacity="0.08"/>
+    <stop offset="100%" stop-color="transparent" stop-opacity="0"/>
+  </radialGradient>
+</defs>
+
+<!-- BG -->
+<rect width="900" height="220" fill="url(#bgG)" class="bg-pulse"/>
+<rect width="900" height="220" fill="url(#hGlow)"/>
+<rect width="900" height="220" fill="url(#lavG)"/>
+<rect width="900" height="220" fill="url(#rGlow2)"/>
+
+<!-- Subtle grid -->
+<g opacity="0.028" stroke="#D8CAB4" stroke-width="0.5">
+  <line x1="0" y1="55" x2="900" y2="55"/>
+  <line x1="0" y1="110" x2="900" y2="110"/>
+  <line x1="0" y1="165" x2="900" y2="165"/>
+  <line x1="90" y1="0" x2="90" y2="220"/><line x1="180" y1="0" x2="180" y2="220"/>
+  <line x1="270" y1="0" x2="270" y2="220"/><line x1="360" y1="0" x2="360" y2="220"/>
+  <line x1="450" y1="0" x2="450" y2="220"/><line x1="540" y1="0" x2="540" y2="220"/>
+  <line x1="630" y1="0" x2="630" y2="220"/><line x1="720" y1="0" x2="720" y2="220"/>
+  <line x1="810" y1="0" x2="810" y2="220"/>
+</g>
+
+<!-- Outer border -->
+<rect x="1" y="1" width="898" height="218" fill="none" stroke="#C8102E" stroke-width="1" class="bgl"/>
+
+<!-- CORNER BRACKETS -->
+<g class="cr-tl" stroke="#C8102E" stroke-width="1.8" fill="none">
+  <line x1="14" y1="14" x2="44" y2="14"/><line x1="14" y1="14" x2="14" y2="44"/>
+</g>
+<g class="cr-tr" stroke="#C8102E" stroke-width="1.8" fill="none">
+  <line x1="886" y1="14" x2="856" y2="14"/><line x1="886" y1="14" x2="886" y2="44"/>
+</g>
+<g class="cr-bl" stroke="#C8102E" stroke-width="1.8" fill="none">
+  <line x1="14" y1="206" x2="44" y2="206"/><line x1="14" y1="206" x2="14" y2="176"/>
+</g>
+<g class="cr-br" stroke="#C8102E" stroke-width="1.8" fill="none">
+  <line x1="886" y1="206" x2="856" y2="206"/><line x1="886" y1="206" x2="886" y2="176"/>
+</g>
+
+<!-- Stalactites -->
+<g class="stal s0"><polygon points="30,0 42,62 54,0" fill="#0C0518"/><line x1="42" y1="62" x2="42" y2="74" stroke="rgba(216,202,180,0.2)" stroke-width="0.7"/><circle cx="42" cy="75.5" r="2.2" fill="rgba(216,202,180,0.18)"/></g>
+<g class="stal s1"><polygon points="80,0 89,38 98,0" fill="#0C0518"/></g>
+<g class="stal s2"><polygon points="155,0 168,55 181,0" fill="#0C0518"/><line x1="168" y1="55" x2="168" y2="65" stroke="rgba(216,202,180,0.15)" stroke-width="0.6"/></g>
+<g class="stal s3"><polygon points="240,0 256,72 272,0" fill="#0C0518"/><line x1="256" y1="72" x2="256" y2="86" stroke="rgba(200,16,46,0.4)" stroke-width="0.8"/><circle cx="256" cy="88" r="3" fill="rgba(200,16,46,0.3)"/></g>
+<g class="stal s4"><polygon points="340,0 350,42 360,0" fill="#0C0518"/></g>
+<g class="stal s5"><polygon points="430,0 445,60 460,0" fill="#0C0518"/></g>
+<g class="stal s6"><polygon points="540,0 555,75 570,0" fill="#0C0518"/><line x1="555" y1="75" x2="555" y2="88" stroke="rgba(200,16,46,0.35)" stroke-width="0.7"/><circle cx="555" cy="90" r="2.5" fill="rgba(200,16,46,0.28)"/></g>
+<g class="stal s7"><polygon points="660,0 671,45 682,0" fill="#0C0518"/></g>
+<g class="stal s8"><polygon points="760,0 775,65 790,0" fill="#0C0518"/><line x1="775" y1="65" x2="775" y2="77" stroke="rgba(216,202,180,0.2)" stroke-width="0.6"/><circle cx="775" cy="79" r="2" fill="rgba(216,202,180,0.15)"/></g>
+<g class="stal s0" style="animation-delay:0.35s"><polygon points="840,0 849,35 858,0" fill="#0C0518"/></g>
+
+<!-- Drips -->
+<circle class="drip d0" cx="256" cy="89" r="2.5" fill="rgba(200,16,46,0.45)"/>
+<circle class="drip d1" cx="42"  cy="76" r="2"   fill="rgba(216,202,180,0.3)"/>
+<circle class="drip d2" cx="555" cy="91" r="2.2" fill="rgba(200,16,46,0.35)"/>
+<circle class="drip d3" cx="775" cy="80" r="1.8" fill="rgba(216,202,180,0.25)"/>
+
+<!-- Silk threads -->
+<path class="th t0" d="M 25,120 Q 100,105 180,125 Q 260,145 340,115" fill="none" stroke="rgba(216,202,180,0.3)" stroke-width="0.9"/>
+<path class="th t1" d="M 560,105 Q 640,88 720,110 Q 800,132 880,105" fill="none" stroke="rgba(216,202,180,0.25)" stroke-width="0.9"/>
+<path class="th t2" d="M 25,158 Q 130,142 230,162 Q 340,182 440,155" fill="none" stroke="rgba(200,16,46,0.2)" stroke-width="0.7"/>
+<path class="th t3" d="M 460,165 Q 580,148 680,170 Q 780,190 875,165" fill="none" stroke="rgba(216,202,180,0.18)" stroke-width="0.7"/>
+<path class="th t4" d="M 360,110 Q 410,100 460,112 Q 510,124 560,108" fill="none" stroke="rgba(200,16,46,0.15)" stroke-width="0.6"/>
+
+<!-- Spores -->
+<circle class="sp p0" cx="70"  cy="175" r="1.8" fill="rgba(216,202,180,0.7)"/>
+<circle class="sp p1" cx="195" cy="182" r="1.2" fill="rgba(216,202,180,0.6)"/>
+<circle class="sp p2" cx="680" cy="178" r="1.6" fill="rgba(216,202,180,0.65)"/>
+<circle class="sp p3" cx="790" cy="170" r="1.1" fill="rgba(200,16,46,0.6)"/>
+<circle class="sp p4" cx="380" cy="185" r="1.4" fill="rgba(216,202,180,0.5)"/>
+<circle class="sp p5" cx="510" cy="180" r="1"   fill="rgba(200,16,46,0.45)"/>
+
+<!-- HORNET pixel art (right side, small) -->
+<g class="hornet-mask" transform="translate(800,30)">
+  <!-- cape glow -->
+  <ellipse cx="28" cy="130" rx="28" ry="20" fill="rgba(139,10,31,0.25)" class="cape-glow"/>
+  <!-- cape -->
+  <path d="M18,80 Q4,110 6,145 Q18,138 28,142 Q38,138 50,145 Q52,110 38,80Z" fill="#6B0A1A"/>
+  <path d="M20,82 Q8,112 10,142 Q18,135 28,138L28,82Z" fill="#9B1428" opacity="0.8"/>
+  <!-- body -->
+  <ellipse cx="28" cy="86" rx="10" ry="16" fill="#0C0518"/>
+  <!-- mask -->
+  <ellipse cx="28" cy="56" rx="16" ry="18" fill="#D0C4AE"/>
+  <ellipse cx="28" cy="56" rx="13" ry="15" fill="#E2D6C0"/>
+  <!-- eyes -->
+  <ellipse cx="22" cy="58" rx="4" ry="5" fill="#06020A"/>
+  <ellipse cx="34" cy="58" rx="4" ry="5" fill="#06020A"/>
+  <ellipse cx="21" cy="56" rx="1.2" ry="1.2" fill="rgba(200,16,46,0.7)"/>
+  <ellipse cx="33" cy="56" rx="1.2" ry="1.2" fill="rgba(200,16,46,0.7)"/>
+  <!-- horns -->
+  <path d="M22,40 Q18,22 20,10" fill="none" stroke="#D0C4AE" stroke-width="3" stroke-linecap="round"/>
+  <path d="M34,40 Q38,22 36,10" fill="none" stroke="#D0C4AE" stroke-width="3" stroke-linecap="round"/>
+  <!-- needle -->
+  <line x1="18" y1="92" x2="-12" y2="62" stroke="#C8C0A0" stroke-width="1.8" stroke-linecap="round"/>
+  <line x1="18" y1="92" x2="-12" y2="62" stroke="rgba(216,202,180,0.25)" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="-12" cy="62" r="2.5" fill="#C8C0A0"/>
+  <!-- silk from needle -->
+  <path d="M-12,62 Q-30,55 -55,65" fill="none" stroke="rgba(216,202,180,0.35)" stroke-width="0.7"/>
+  <path d="M-12,62 Q-25,80 -45,90" fill="none" stroke="rgba(216,202,180,0.25)" stroke-width="0.7"/>
+</g>
+
+<!-- Decorative red horizontal rule -->
+<rect x="220" y="108" width="460" height="1" fill="url(#rG)" opacity="0.5" class="lineh"/>
+<rect x="280" y="112" width="340" height="0.5" fill="url(#rG)" opacity="0.3" class="lineh"/>
+
+<!-- GEM ornaments -->
+<rect class="gem gl" x="192" y="99" width="12" height="12" fill="#C8102E" transform="rotate(45 198 105)"/>
+<rect class="gem gr" x="700" y="99" width="12" height="12" fill="#C8102E" transform="rotate(45 706 105)"/>
+
+<!-- TITLE TEXTS -->
+<text x="450" y="82" text-anchor="middle" class="ttag">[ DESENVOLVEDORA FRONT-END ]</text>
+<text x="450" y="140" text-anchor="middle" class="tmain">Isabel Paixao</text>
+<text x="450" y="168" text-anchor="middle" class="tsub">Angular · TypeScript · SCSS · Firebase</text>
+
+<!-- HUD bottom bar -->
+<line x1="14" y1="196" x2="200" y2="196" stroke="rgba(216,202,180,0.06)" stroke-width="0.5"/>
+<line x1="700" y1="196" x2="886" y2="196" stroke="rgba(216,202,180,0.06)" stroke-width="0.5"/>
+<text x="26" y="210" font-family="'Courier New',monospace" font-size="9" fill="rgba(138,125,110,0.55)" letter-spacing="2">v1.0 · 2025</text>
+
+<!-- ONLINE indicator -->
+<g class="online-dot" transform="translate(840,205)">
+  <circle r="4" fill="#C8102E">
+    <animate attributeName="opacity" values="0.9;0.2;0.9" dur="1.4s" repeatCount="indefinite"/>
+    <animate attributeName="r" values="4;3;4" dur="1.4s" repeatCount="indefinite"/>
+  </circle>
+</g>
+<text x="832" y="210" text-anchor="end" font-family="'Courier New',monospace" font-size="9" fill="rgba(200,16,46,0.7)" letter-spacing="2">ONLINE</text>
+</svg>
