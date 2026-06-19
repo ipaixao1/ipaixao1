@@ -108,7 +108,6 @@ RxJS · Route Guards · Lazy Loading · Canvas 2D API
 
 <br/>
 
-<img align="left" src="https://raw.githubusercontent.com/ipaixao1/ipaixao1/main/hornet-needle.svg" width="110" alt="Hornet with needle"/>
 
 ### BAIANAr — Sistema de Restaurante
 `Angular 17 · Firebase · Vercel` &nbsp; **`DESTAQUE`**
@@ -189,9 +188,6 @@ Uma interface que se apresenta dentro de si mesma.
 ## <span style="color:#C8102E">GitHub Stats</span>
 
 <div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ipaixao1&show_icons=true&bg_color=06030A&title_color=C8102E&text_color=D8CAB4&icon_color=7B6FC8&border_color=C8102E&border_radius=0&count_private=true&include_all_commits=true&rank_icon=github"/>
-&nbsp;
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ipaixao1&layout=compact&bg_color=06030A&title_color=C8102E&text_color=D8CAB4&border_color=C8102E&border_radius=0&langs_count=6&hide=python,java,php,jupyter+notebook"/>
 
 </div>
@@ -221,9 +217,6 @@ Uma interface que se apresenta dentro de si mesma.
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/ipaixao1/ipaixao1/main/commit-game.svg" width="100%" alt="Commit History 2025"/>
-
-> Hornet correndo pelos seus commits de 2025 — os picos em MAI e SET foram as sprints do BAIANAr e do Portfolio.
-> Os valores acima podem ser atualizados no arquivo `commit-game.svg` conforme o ano avança.
 
 </div>
 
