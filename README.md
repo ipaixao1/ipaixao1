@@ -104,67 +104,13 @@ RxJS · Route Guards · Lazy Loading · Canvas 2D API
 
 <br/>
 
-## <span style="color:#C8102E">Projetos</span>
-
-<br/>
-
-
-### BAIANAr — Sistema de Restaurante
-`Angular 17 · Firebase · Vercel` &nbsp; **`DESTAQUE`**
-
-Sistema completo de pedidos e gestão para restaurantes com **quatro interfaces independentes** comunicando em tempo real. Foi o projeto mais desafiador que já construí — do cardápio mobile para clientes ao painel da cozinha exibindo pedidos ao vivo.
-
-<br clear="left"/>
-
-**O que está por dentro:**
-
-| Interface | O que faz |
-|:---|:---|
-| Storefront Mobile | Cardápio, carrinho, checkout com múltiplos meios de pagamento e rastreio do pedido |
-| Dashboard Admin | CRUD completo de produtos e categorias, gestão de pedidos e upload de imagens |
-| KDS — Kitchen Display | Painel da cozinha com cards de pedido atualizando em tempo real via `onSnapshot` |
-| App Motoboy | Área exclusiva para entregadores com autenticação própria e fluxo de entrega |
-
-Toda a comunicação entre interfaces acontece via **Firestore em tempo real** — uma ação no storefront reflete instantaneamente na cozinha e no painel admin. Permissões por cargo com Route Guards garantem que cada usuário só acessa o que é seu.
-
-[![Demo ao vivo](https://img.shields.io/badge/▶_DEMO_AO_VIVO-C8102E?style=for-the-badge)](https://baianar.vercel.app)
-[![Código](https://img.shields.io/badge/◈_CODIGO-0D0614?style=for-the-badge&logo=github&logoColor=D8CAB4)](https://github.com/ipaixao1/Comanda-Digital---BAIANAr)
-
----
-
-<br/>
-
-### Brisa Vinícola — E-commerce de Vinhos
-`HTML · CSS · JavaScript · PHP · MySQL` &nbsp; **`TCC TÉCNICO`**
-
-Meu trabalho de conclusão do curso técnico de **Informática para a Internet**. Um e-commerce sofisticado de vinhos construído do zero — da identidade visual ao banco de dados. Catálogo de produtos, carrinho de compras, autenticação de usuários e painel administrativo completo.
-
-Foi o projeto que me mostrou, pela primeira vez, o ciclo completo de um produto web.
-
-[![Código](https://img.shields.io/badge/◈_CODIGO-0D0614?style=for-the-badge&logo=github&logoColor=D8CAB4)](https://github.com/ipaixao1/TCC---BrisaVinicola)
-
----
+## <span style="color:#C8102E">Meu Portfolio</span>
 
 <br/>
 
 <img align="right" src="https://raw.githubusercontent.com/ipaixao1/ipaixao1/main/hornet-sit.svg" width="120" alt="Hornet sitting"/>
 
-### Impressora Elgin — Controle de Hardware
-`Java · ESC/POS · OOP` &nbsp; **`2° SEMESTRE`**
-
-Projeto desenvolvido no 2° semestre da faculdade. Uma aplicação Java com menu interativo para controlar uma impressora térmica Elgin diretamente — QR Code, código de barras, impressão de nota fiscal e corte de papel, tudo via protocolo ESC/POS.
-
-Meu primeiro contato real com comunicação entre software e hardware.
-
-<br clear="right"/>
-
-[![Código](https://img.shields.io/badge/◈_CODIGO-0D0614?style=for-the-badge&logo=github&logoColor=D8CAB4)](https://github.com/anna-clara6/impressora-elgin-final)
-
----
-
-<br/>
-
-### Portfolio Silksong — Este Portfolio
+### Portfolio Silksong
 `Angular 17 · TypeScript · SCSS · Canvas 2D`
 
 O portfolio que você provavelmente acabou de visitar antes de chegar aqui. Desenvolvido com tema em **Hollow Knight: Silksong** — cursor customizado que deixa faíscas, 18 fios de seda no canvas atraídos pelo movimento do mouse, pixel art animada da Hornet, HUD estilo videogame e cada seção como uma área de um mapa de mundo.
