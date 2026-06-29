@@ -133,10 +133,7 @@ Uma interface que se apresenta dentro de si mesma.
 
 ## <span style="color:#C8102E">GitHub Stats</span>
 
-<div align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ipaixao1&layout=compact&bg_color=06030A&title_color=C8102E&text_color=D8CAB4&border_color=C8102E&border_radius=0&langs_count=6&hide=python,java,php,jupyter+notebook"/>
 
-</div>
 
 <div align="center">
 
