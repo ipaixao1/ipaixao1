@@ -30,7 +30,7 @@
 
 ## <span style="color:red">Sobre Mim</span>
 
-Olá, sou **Isabel Paixão** — desenvolvedora front-end em formação, no **3° semestre de Análise e Desenvolvimento de Sistemas**.
+Olá, sou **Isabel Paixão** — desenvolvedora front-end em formação, no **4° semestre de Análise e Desenvolvimento de Sistemas**.
 
 Meu foco está em criar interfaces que vão além do funcional: interfaces que têm identidade, que se sentem vivas, que conectam quem usa ao produto de forma natural. Cada componente que escrevo, cada detalhe de layout que ajusto — é intencional.
 
